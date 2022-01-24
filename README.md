@@ -1,2 +1,2 @@
-# hello-python-2022
-Hello world program in Python.
+# hello python 2022
+This was written when while watching Morgan help create my account
